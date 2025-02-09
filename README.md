@@ -1,3 +1,5 @@
+This is additional info to the original README.md file. 
+
 The code is combined into one script and modified.
 The bad request and not found responses are seperated into their own functions to keep things clean:
 
