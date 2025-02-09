@@ -8,22 +8,10 @@ This project implements a simple TCP web server in Python. It listens for incomi
 tcp-web-server
 ├── src
 │   ├── server.py          # Entry point of the TCP web server
-│   └── handlers
-│       └── __init__.py    # Contains request handler functions
-├── requirements.txt       # Lists project dependencies
 └── README.md              # Project documentation
 ```
 
-## Requirements
-
-To run this project, you need to install the required dependencies listed in `requirements.txt`.
-
 ## Running the Server
-
-1. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
 
 2. Start the server:
    ```
